@@ -142,5 +142,5 @@ which will be an integer, the line number.")
   (dln-undisplay)
   (dln-display))
 
-(provide 'display-line-number)
-;;; display-line-number.el ends here
+(provide 'wcy-display-line-number)
+;;; wcy-display-line-number.el ends here
